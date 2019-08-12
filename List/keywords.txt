@@ -1,0 +1,20 @@
+################################Syntax Coloring Map for List.h################################
+#class
+List	LITERAL1
+Iterator	LITERAL1
+ConstIterator	LITERAL1
+
+#methods
+begin	KEYWORD2
+end	KEYWORD2
+size	KEYWORD2
+empty	KEYWORD2
+front	KEYWORD2
+back	KEYWORD2
+insert	KEYWORD2
+erase	KEYWORD2
+popFront	KEYWORD2
+popBack	KEYWORD2
+pushFront	KEYWORD2
+pushBack	KEYWORD2
+clear	KEYWORD2
